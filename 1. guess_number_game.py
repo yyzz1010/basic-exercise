@@ -22,3 +22,6 @@ for i in range(3):
   elif a < c_choice:
     a = int(input("The answer is bigger. Try again~ "))
     times += 1
+
+    
+#for loop exercise from https://kopu.chat/2017/01/18/一小時python入門-part-1/
